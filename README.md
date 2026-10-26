@@ -45,8 +45,6 @@ Corporate customers recorded the highest sales at 4,311,027.50, followed by Smal
 
 The dashboard provides an overview of sales and profitability, highlighting Furniture as the leading sales category and Central as the highest-profit region. These insights can support further investigation into inventory planning, regional performance, and sales growth opportunities.
 
-*Built by Tamilselvi · ApnoAI Data Analytics Intern · October 2026*
-
 ---
 
 *Built by Tamilselvi · ApnoAI Data Analytics Intern · October 2026*
